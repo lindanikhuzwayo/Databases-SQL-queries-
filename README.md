@@ -1,5 +1,7 @@
 # Databases-SQL-queries-
-In this project I will create and load your own MySQL database using a given SQL file, and I will write SQL queries to answer the questions below and run them against the database. queries must be correct for any instance of the database schema, and not just for the given sample data
+Practising some sql queries
+
+In these set of problems  I will create and load my own MySQL database using a given SQL file, and I will write SQL queries to answer the questions below and run them against the database. queries must be correct for any instance of the database schema, and not just for the given sample data
 
 The SQL file in question is called ‘classicModels.sql’ 
 
